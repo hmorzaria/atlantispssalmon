@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+#ignore nc files
+*.nc
+
+*.ts
+
+PugetSoundROMS2005_2006flows.cdf
+
+outputFolder/
+
+figures/
